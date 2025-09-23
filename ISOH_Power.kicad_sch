@@ -1994,7 +1994,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0daf6a73-30e2-4ed3-80a7-5fa5ecd44912")
-		(property "Reference" "C53"
+		(property "Reference" "C56"
 			(at 168.91 87.6362 0)
 			(effects
 				(font
@@ -2048,15 +2048,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C53")
+					(reference "C56")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C151")
+					(reference "C154")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C105")
+					(reference "C108")
 					(unit 1)
 				)
 			)
@@ -2071,7 +2071,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1b7b7740-6e08-4e41-b50c-868c636d931b")
-		(property "Reference" "C52"
+		(property "Reference" "C55"
 			(at 143.51 69.342 90)
 			(effects
 				(font
@@ -2123,15 +2123,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C52")
+					(reference "C55")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C150")
+					(reference "C153")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C104")
+					(reference "C107")
 					(unit 1)
 				)
 			)
@@ -2146,7 +2146,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1bfdc9f3-3629-4dcd-917e-eb4fe26d34ae")
-		(property "Reference" "C58"
+		(property "Reference" "C61"
 			(at 181.61 95.2562 0)
 			(effects
 				(font
@@ -2200,15 +2200,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C58")
+					(reference "C61")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C156")
+					(reference "C159")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C110")
+					(reference "C113")
 					(unit 1)
 				)
 			)
@@ -2463,7 +2463,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7ae244ee-e201-4e51-b2ed-e33a7994e5be")
-		(property "Reference" "C54"
+		(property "Reference" "C57"
 			(at 181.61 87.6362 0)
 			(effects
 				(font
@@ -2517,15 +2517,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C54")
+					(reference "C57")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C152")
+					(reference "C155")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C106")
+					(reference "C109")
 					(unit 1)
 				)
 			)
@@ -2540,7 +2540,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "815c7262-4f45-43f7-8af9-e1323c79961b")
-		(property "Reference" "C55"
+		(property "Reference" "C58"
 			(at 106.68 91.4462 0)
 			(effects
 				(font
@@ -2594,15 +2594,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C55")
+					(reference "C58")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C153")
+					(reference "C156")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C107")
+					(reference "C110")
 					(unit 1)
 				)
 			)
@@ -2794,7 +2794,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9143884e-def4-4411-8939-90000c9b49d9")
-		(property "Reference" "C56"
+		(property "Reference" "C59"
 			(at 119.38 91.4462 0)
 			(effects
 				(font
@@ -2848,15 +2848,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C56")
+					(reference "C59")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C154")
+					(reference "C157")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C108")
+					(reference "C111")
 					(unit 1)
 				)
 			)
@@ -2872,7 +2872,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9771c6bc-cc2e-4433-a409-e3bbb3493220")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR066"
 			(at 96.52 110.49 0)
 			(effects
 				(font
@@ -2922,15 +2922,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "#PWR060")
+					(reference "#PWR066")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "#PWR0220")
+					(reference "#PWR0208")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "#PWR0149")
+					(reference "#PWR0143")
 					(unit 1)
 				)
 			)
@@ -3098,7 +3098,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9b97cfbd-b8a8-49e4-bedd-a1b184bcb0f7")
-		(property "Reference" "C57"
+		(property "Reference" "C60"
 			(at 168.91 95.2562 0)
 			(effects
 				(font
@@ -3152,15 +3152,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C57")
+					(reference "C60")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C155")
+					(reference "C158")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C109")
+					(reference "C112")
 					(unit 1)
 				)
 			)
@@ -3251,7 +3251,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c9a90921-c7fc-4184-9521-4036b4eaeec5")
-		(property "Reference" "C59"
+		(property "Reference" "C62"
 			(at 143.51 116.332 90)
 			(effects
 				(font
@@ -3303,15 +3303,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C59")
+					(reference "C62")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C157")
+					(reference "C160")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "C111")
+					(reference "C114")
 					(unit 1)
 				)
 			)
@@ -3327,7 +3327,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f4ad7f3b-2d94-4676-a286-076a496c7ace")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR065"
 			(at 96.52 85.09 0)
 			(effects
 				(font
@@ -3377,15 +3377,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "#PWR059")
+					(reference "#PWR065")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "#PWR0219")
+					(reference "#PWR0207")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "#PWR0148")
+					(reference "#PWR0142")
 					(unit 1)
 				)
 			)

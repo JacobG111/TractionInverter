@@ -1,4 +1,4 @@
-25303230744743281
+25305039287945250
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99991,6 +99991,13 @@ TractionInverter
 CAPPRD750W80D1825H4150
 18x40-ren1
 Capacitor Polarised
+0
+2
+2
+TractionInverter
+CAP_UPZ_12P5X50_NCH
+
+UPZ2E221MNY9 
 0
 2
 2
