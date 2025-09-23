@@ -1,0 +1,117 @@
+(footprint "CAPPRD750W80D1825H4150"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "18x40-ren1")
+	(tags "Capacitor Polarised")
+	(property "Reference" "C**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "556adc98-9191-4ff3-b5e3-659114d15145")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "CAPPRD750W80D1825H4150"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "668759b8-d61e-4817-a394-983c90b2b2ca")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dc00852d-f7c0-41a0-ac87-d3652a0df5ad")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "33aee8be-f3a7-4eca-a18c-995c71298d65")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 3.75 0)
+		(end 3.75 9.125)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "4c29794e-00fc-47dd-86ec-c53fdd52e344")
+	)
+	(fp_circle
+		(center 3.75 0)
+		(end 3.75 9.125)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "72e307fb-0556-4f00-8485-188ff0259a4b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "ea3fdfb4-7ee9-48ec-bbe4-555d54a075d6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e84e6d6e-5c52-4d42-8b5e-03c0203890b7")
+	)
+	(pad "2" thru_hole circle
+		(at 7.5 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "99fb64d6-65dd-45af-bb0e-bba348f27cf0")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/TractionInverterLib/TractionInverter.3d/EKXJ251ELL331MM40S.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
