@@ -1742,7 +1742,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "165b5706-ac6c-4fd3-87ba-501470b29525")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR03"
 			(at 275.59 149.86 0)
 			(effects
 				(font
@@ -1792,7 +1792,7 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc"
-					(reference "#PWR011")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)

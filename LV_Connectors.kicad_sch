@@ -1419,7 +1419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f3697cc-e62a-4d1e-94ca-0d4c32b5bcc6")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR066"
 			(at 127 66.04 0)
 			(effects
 				(font
@@ -1469,15 +1469,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/1803162f-0f17-4cda-aa7d-7c0df54a7973"
-					(reference "#PWR086")
+					(reference "#PWR078")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/6b4e4f7c-6ec4-4782-b4c9-72a29028534f"
-					(reference "#PWR074")
+					(reference "#PWR066")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/d9e97898-c2a2-4207-ac20-897d276cb7c6"
-					(reference "#PWR0151")
+					(reference "#PWR0143")
 					(unit 1)
 				)
 			)
@@ -1493,7 +1493,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a244c44-c7b1-4d49-a3f8-1e6f82ddc2c5")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR067"
 			(at 186.69 67.31 0)
 			(effects
 				(font
@@ -1543,15 +1543,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/1803162f-0f17-4cda-aa7d-7c0df54a7973"
-					(reference "#PWR087")
+					(reference "#PWR079")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/6b4e4f7c-6ec4-4782-b4c9-72a29028534f"
-					(reference "#PWR075")
+					(reference "#PWR067")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/d9e97898-c2a2-4207-ac20-897d276cb7c6"
-					(reference "#PWR0152")
+					(reference "#PWR0144")
 					(unit 1)
 				)
 			)
@@ -1567,7 +1567,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ecf7d8b-796d-4efc-8081-c06a2fbe625c")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR065"
 			(at 106.68 66.04 0)
 			(effects
 				(font
@@ -1617,15 +1617,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/1803162f-0f17-4cda-aa7d-7c0df54a7973"
-					(reference "#PWR085")
+					(reference "#PWR077")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/6b4e4f7c-6ec4-4782-b4c9-72a29028534f"
-					(reference "#PWR073")
+					(reference "#PWR065")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/d9e97898-c2a2-4207-ac20-897d276cb7c6"
-					(reference "#PWR0150")
+					(reference "#PWR0142")
 					(unit 1)
 				)
 			)
@@ -1641,7 +1641,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d92810b-ad77-4f6b-b66e-f87e29ed967e")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR070"
 			(at 217.17 67.31 0)
 			(effects
 				(font
@@ -1691,15 +1691,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/1803162f-0f17-4cda-aa7d-7c0df54a7973"
-					(reference "#PWR090")
+					(reference "#PWR082")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/6b4e4f7c-6ec4-4782-b4c9-72a29028534f"
-					(reference "#PWR078")
+					(reference "#PWR070")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/d9e97898-c2a2-4207-ac20-897d276cb7c6"
-					(reference "#PWR0155")
+					(reference "#PWR0147")
 					(unit 1)
 				)
 			)
@@ -1715,7 +1715,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9bd6fe61-a99a-4259-a494-63618db9b967")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR073"
 			(at 109.22 87.63 0)
 			(effects
 				(font
@@ -1765,15 +1765,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/1803162f-0f17-4cda-aa7d-7c0df54a7973"
-					(reference "#PWR093")
+					(reference "#PWR085")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/6b4e4f7c-6ec4-4782-b4c9-72a29028534f"
-					(reference "#PWR081")
+					(reference "#PWR073")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/d9e97898-c2a2-4207-ac20-897d276cb7c6"
-					(reference "#PWR0158")
+					(reference "#PWR0150")
 					(unit 1)
 				)
 			)
@@ -1895,7 +1895,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "afe848b4-4897-48c4-a499-265aa02f741e")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR068"
 			(at 193.04 67.31 0)
 			(effects
 				(font
@@ -1945,15 +1945,15 @@
 		(instances
 			(project ""
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/1803162f-0f17-4cda-aa7d-7c0df54a7973"
-					(reference "#PWR088")
+					(reference "#PWR080")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/6b4e4f7c-6ec4-4782-b4c9-72a29028534f"
-					(reference "#PWR076")
+					(reference "#PWR068")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/d9e97898-c2a2-4207-ac20-897d276cb7c6"
-					(reference "#PWR0153")
+					(reference "#PWR0145")
 					(unit 1)
 				)
 			)
@@ -1969,7 +1969,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca2fed79-6545-44e3-a4f0-f20fbf7a1545")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR072"
 			(at 209.55 86.36 0)
 			(effects
 				(font
@@ -2019,15 +2019,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/1803162f-0f17-4cda-aa7d-7c0df54a7973"
-					(reference "#PWR092")
+					(reference "#PWR084")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/6b4e4f7c-6ec4-4782-b4c9-72a29028534f"
-					(reference "#PWR080")
+					(reference "#PWR072")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/d9e97898-c2a2-4207-ac20-897d276cb7c6"
-					(reference "#PWR0157")
+					(reference "#PWR0149")
 					(unit 1)
 				)
 			)
@@ -2043,7 +2043,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da8f1740-a747-40fb-967e-0edf8ce7bc29")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR074"
 			(at 124.46 87.63 0)
 			(effects
 				(font
@@ -2093,15 +2093,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/1803162f-0f17-4cda-aa7d-7c0df54a7973"
-					(reference "#PWR094")
+					(reference "#PWR086")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/6b4e4f7c-6ec4-4782-b4c9-72a29028534f"
-					(reference "#PWR082")
+					(reference "#PWR074")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/d9e97898-c2a2-4207-ac20-897d276cb7c6"
-					(reference "#PWR0159")
+					(reference "#PWR0151")
 					(unit 1)
 				)
 			)
@@ -2117,7 +2117,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e13ce6fe-1320-4eba-8e18-2382e0f2898d")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR069"
 			(at 210.82 67.31 0)
 			(effects
 				(font
@@ -2167,15 +2167,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/1803162f-0f17-4cda-aa7d-7c0df54a7973"
-					(reference "#PWR089")
+					(reference "#PWR081")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/6b4e4f7c-6ec4-4782-b4c9-72a29028534f"
-					(reference "#PWR077")
+					(reference "#PWR069")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/d9e97898-c2a2-4207-ac20-897d276cb7c6"
-					(reference "#PWR0154")
+					(reference "#PWR0146")
 					(unit 1)
 				)
 			)
@@ -2191,7 +2191,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffc787d5-7324-46ad-8470-5c4bd3dcf6bc")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR071"
 			(at 194.31 86.36 0)
 			(effects
 				(font
@@ -2241,15 +2241,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/1803162f-0f17-4cda-aa7d-7c0df54a7973"
-					(reference "#PWR091")
+					(reference "#PWR083")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/6b4e4f7c-6ec4-4782-b4c9-72a29028534f"
-					(reference "#PWR079")
+					(reference "#PWR071")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/d9e97898-c2a2-4207-ac20-897d276cb7c6"
-					(reference "#PWR0156")
+					(reference "#PWR0148")
 					(unit 1)
 				)
 			)

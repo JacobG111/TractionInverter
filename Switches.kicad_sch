@@ -2496,7 +2496,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a77434b-dc42-46c9-86e9-389fff1dbe9c")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR075"
 			(at 135.89 33.02 0)
 			(effects
 				(font
@@ -2546,15 +2546,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "#PWR083")
+					(reference "#PWR075")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "#PWR0163")
+					(reference "#PWR0155")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "#PWR098")
+					(reference "#PWR090")
 					(unit 1)
 				)
 			)
@@ -2832,7 +2832,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35049d30-5d69-4260-bd2d-29bc5e2fcbe7")
-		(property "Reference" "#PWR084"
+		(property "Reference" "#PWR076"
 			(at 135.89 167.64 0)
 			(effects
 				(font
@@ -2882,15 +2882,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "#PWR084")
+					(reference "#PWR076")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "#PWR0164")
+					(reference "#PWR0156")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "#PWR099")
+					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -3249,7 +3249,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60e8037b-8872-4ff5-87b3-078c1da18b2b")
-		(property "Reference" "C70"
+		(property "Reference" "C66"
 			(at 157.48 62.2299 0)
 			(effects
 				(font
@@ -3303,15 +3303,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "C70")
+					(reference "C66")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "C124")
+					(reference "C120")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "C78")
+					(reference "C74")
 					(unit 1)
 				)
 			)
@@ -3479,7 +3479,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73b12b35-2fda-494c-b978-be7fc3ff4df3")
-		(property "Reference" "TP24"
+		(property "Reference" "TP17"
 			(at 146.05 98.5519 0)
 			(effects
 				(font
@@ -3530,15 +3530,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "TP24")
+					(reference "TP17")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "TP47")
+					(reference "TP33")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "TP25")
+					(reference "TP18")
 					(unit 1)
 				)
 			)
@@ -3554,7 +3554,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79a23738-b283-43f4-9de7-f73a9d4bf59a")
-		(property "Reference" "C72"
+		(property "Reference" "C68"
 			(at 114.3 137.1599 0)
 			(effects
 				(font
@@ -3608,15 +3608,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "C72")
+					(reference "C68")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "C126")
+					(reference "C122")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "C80")
+					(reference "C76")
 					(unit 1)
 				)
 			)
@@ -3963,7 +3963,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa009ddb-5044-46a0-9b54-13f4d78995ba")
-		(property "Reference" "C74"
+		(property "Reference" "C70"
 			(at 200.66 137.1599 0)
 			(effects
 				(font
@@ -4017,15 +4017,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "C74")
+					(reference "C70")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "C128")
+					(reference "C124")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "C82")
+					(reference "C78")
 					(unit 1)
 				)
 			)
@@ -4041,7 +4041,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa1ed1b7-ff43-4d70-aa86-d11df584994b")
-		(property "Reference" "C71"
+		(property "Reference" "C67"
 			(at 200.66 62.2299 0)
 			(effects
 				(font
@@ -4095,15 +4095,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "C71")
+					(reference "C67")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "C125")
+					(reference "C121")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "C79")
+					(reference "C75")
 					(unit 1)
 				)
 			)
@@ -4119,7 +4119,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b09c7251-0e41-443c-90c0-eb0a7a88edd4")
-		(property "Reference" "C69"
+		(property "Reference" "C65"
 			(at 114.3 62.2299 0)
 			(effects
 				(font
@@ -4173,15 +4173,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "C69")
+					(reference "C65")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "C123")
+					(reference "C119")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "C77")
+					(reference "C73")
 					(unit 1)
 				)
 			)
@@ -4609,7 +4609,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e648ec73-64b6-441e-84b1-70e0ed03f488")
-		(property "Reference" "C73"
+		(property "Reference" "C69"
 			(at 157.48 137.1599 0)
 			(effects
 				(font
@@ -4663,15 +4663,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "C73")
+					(reference "C69")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "C127")
+					(reference "C123")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "C81")
+					(reference "C77")
 					(unit 1)
 				)
 			)
