@@ -764,6 +764,10 @@
     [
       "3aaba1fa-a0df-4eca-b815-30424e38ce2f",
       "SenseConnectors"
+    ],
+    [
+      "9f0263c3-ed48-4eb7-bb74-b6c123317857",
+      "BulkCapacitance"
     ]
   ],
   "text_variables": {}
