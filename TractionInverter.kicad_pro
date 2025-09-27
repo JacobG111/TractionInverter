@@ -674,16 +674,8 @@
       "Phase_CSense"
     ],
     [
-      "6b4e4f7c-6ec4-4782-b4c9-72a29028534f",
-      "LV_Connector_A"
-    ],
-    [
       "61f5303a-4fdd-407b-8b75-bd44ef1dd029",
       "Switches"
-    ],
-    [
-      "1803162f-0f17-4cda-aa7d-7c0df54a7973",
-      "LV_Connectors_B"
     ],
     [
       "f1a23dc8-fe65-401e-b36f-fdc2d19203b3",
@@ -712,10 +704,6 @@
     [
       "3aef579f-66ac-4570-8e3c-1ed3bd255ec3",
       "Phase_CSense"
-    ],
-    [
-      "d9e97898-c2a2-4207-ac20-897d276cb7c6",
-      "LV_Connectors_C"
     ],
     [
       "ebf1904e-ffdd-4ce1-98fa-2546468af80b",
@@ -768,6 +756,10 @@
     [
       "9f0263c3-ed48-4eb7-bb74-b6c123317857",
       "BulkCapacitance"
+    ],
+    [
+      "c3b3d684-59ca-4515-b70c-79904c358626",
+      "GateDriverConnectors"
     ]
   ],
   "text_variables": {}

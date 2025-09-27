@@ -1051,26 +1051,10 @@
 		(uuid "72373882-77ed-4ca2-b9d5-f3bd91b6402b")
 	)
 	(junction
-		(at 187.96 59.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7be7d2cd-1c96-418d-9397-d2b6e4a5856f")
-	)
-	(junction
 		(at 91.44 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9b50eed2-5522-46d6-b543-092959b4b51c")
-	)
-	(wire
-		(pts
-			(xy 187.96 59.69) (xy 186.69 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "03a8b772-8c81-4ab5-8eb5-b3f7b835989e")
 	)
 	(wire
 		(pts
@@ -1151,16 +1135,6 @@
 			(type default)
 		)
 		(uuid "4e9f80cd-180f-487e-8317-0239a716be6e")
-	)
-	(wire
-		(pts
-			(xy 187.96 59.69) (xy 187.96 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5c2b6334-eaae-4584-9169-9831b312fbe3")
 	)
 	(wire
 		(pts
@@ -1254,16 +1228,6 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 57.15) (xy 186.69 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5fb1354-66ed-4e4e-a548-524b72060566")
-	)
-	(wire
-		(pts
 			(xy 106.68 90.17) (xy 111.76 90.17)
 		)
 		(stroke
@@ -1341,16 +1305,6 @@
 			(type default)
 		)
 		(uuid "cda15447-aaea-4fc4-9c6f-a4f8e202ea89")
-	)
-	(wire
-		(pts
-			(xy 187.96 62.23) (xy 187.96 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d9e104c8-d205-4600-8156-af3111e0c5a0")
 	)
 	(wire
 		(pts
@@ -1567,7 +1521,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0cb04199-b3cf-4212-a93e-16c60434d8e6")
-		(property "Reference" "#PWR0262"
+		(property "Reference" "#PWR0232"
 			(at 109.22 77.47 0)
 			(effects
 				(font
@@ -1617,7 +1571,7 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3aaba1fa-a0df-4eca-b815-30424e38ce2f"
-					(reference "#PWR0262")
+					(reference "#PWR0232")
 					(unit 1)
 				)
 			)
@@ -1633,7 +1587,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1f80a972-d55f-43b5-8382-f000a9b59279")
-		(property "Reference" "#PWR0261"
+		(property "Reference" "#PWR0231"
 			(at 91.44 77.47 0)
 			(effects
 				(font
@@ -1683,7 +1637,7 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3aaba1fa-a0df-4eca-b815-30424e38ce2f"
-					(reference "#PWR0261")
+					(reference "#PWR0231")
 					(unit 1)
 				)
 			)
@@ -1699,7 +1653,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d886791-9944-47f7-8e27-a0bb3a76a54b")
-		(property "Reference" "J13"
+		(property "Reference" "J7"
 			(at 100.33 83.82 0)
 			(effects
 				(font
@@ -1775,7 +1729,7 @@
 		(instances
 			(project ""
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3aaba1fa-a0df-4eca-b815-30424e38ce2f"
-					(reference "J13")
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -1792,7 +1746,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8960f9df-7e15-42f0-b18e-2440119ac39a")
-		(property "Reference" "#PWR0259"
+		(property "Reference" "#PWR0229"
 			(at 109.22 57.15 0)
 			(effects
 				(font
@@ -1842,7 +1796,7 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3aaba1fa-a0df-4eca-b815-30424e38ce2f"
-					(reference "#PWR0259")
+					(reference "#PWR0229")
 					(unit 1)
 				)
 			)
@@ -1859,7 +1813,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "948069d1-40b3-4580-b705-e1b6d36ecab8")
-		(property "Reference" "#PWR0263"
+		(property "Reference" "#PWR0233"
 			(at 109.22 91.44 0)
 			(effects
 				(font
@@ -1909,7 +1863,7 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3aaba1fa-a0df-4eca-b815-30424e38ce2f"
-					(reference "#PWR0263")
+					(reference "#PWR0233")
 					(unit 1)
 				)
 			)
@@ -1925,7 +1879,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d4e6ddf-a41c-49b9-b1a6-320615f1b4bc")
-		(property "Reference" "#PWR0264"
+		(property "Reference" "#PWR0234"
 			(at 91.44 109.22 0)
 			(effects
 				(font
@@ -1975,7 +1929,7 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3aaba1fa-a0df-4eca-b815-30424e38ce2f"
-					(reference "#PWR0264")
+					(reference "#PWR0234")
 					(unit 1)
 				)
 			)
@@ -1991,7 +1945,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aac6c166-e0e4-4955-9509-c00021ce4934")
-		(property "Reference" "J12"
+		(property "Reference" "J6"
 			(at 100.33 49.53 0)
 			(effects
 				(font
@@ -2073,74 +2027,7 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3aaba1fa-a0df-4eca-b815-30424e38ce2f"
-					(reference "J12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 187.96 62.23 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e9d2c766-1aa6-4b95-9c43-c6cf60a26771")
-		(property "Reference" "#PWR0260"
-			(at 187.96 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "LVGND"
-			(at 187.96 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 187.96 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 187.96 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 187.96 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "42c9e8cc-cba6-4277-9f65-03ae057883ec")
-		)
-		(instances
-			(project "TractionInverter"
-				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3aaba1fa-a0df-4eca-b815-30424e38ce2f"
-					(reference "#PWR0260")
+					(reference "J6")
 					(unit 1)
 				)
 			)

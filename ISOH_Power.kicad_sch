@@ -2329,7 +2329,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TractionInverter:KEYSTONE_5281"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 222.25 128.27 0)
 			(effects
 				(font
@@ -2926,11 +2926,11 @@
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "#PWR0200")
+					(reference "#PWR0170")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "#PWR0135")
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -3042,7 +3042,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TractionInverter:KEYSTONE_5281"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 240.03 128.27 0)
 			(effects
 				(font
@@ -3381,11 +3381,11 @@
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "#PWR0199")
+					(reference "#PWR0169")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "#PWR0134")
+					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
