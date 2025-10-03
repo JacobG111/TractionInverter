@@ -3315,7 +3315,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TractionInverter:KEYSTONE_5281"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 236.22 151.13 0)
 			(effects
 				(font
@@ -7926,7 +7926,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TractionInverter:KEYSTONE_5281"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 237.49 74.93 0)
 			(effects
 				(font
