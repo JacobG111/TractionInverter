@@ -1392,6 +1392,26 @@
 	)
 	(wire
 		(pts
+			(xy 231.14 148.59) (xy 231.14 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e0b8789-c55d-4c40-be0d-36bf69052fc4")
+	)
+	(wire
+		(pts
+			(xy 248.92 132.08) (xy 248.92 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "216a8c95-506e-4ff8-8283-b17aad88bc4c")
+	)
+	(wire
+		(pts
 			(xy 93.98 73.66) (xy 93.98 82.55)
 		)
 		(stroke
@@ -1569,6 +1589,16 @@
 			(type default)
 		)
 		(uuid "6feabe70-fad6-4b15-a801-d993e3de3c38")
+	)
+	(wire
+		(pts
+			(xy 213.36 148.59) (xy 213.36 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72ed75e9-6bf5-4d44-94c8-df330d754bd3")
 	)
 	(wire
 		(pts
@@ -1852,6 +1882,16 @@
 	)
 	(wire
 		(pts
+			(xy 266.7 132.08) (xy 266.7 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec5661d3-c15e-41a6-9c02-92fa4279b098")
+	)
+	(wire
+		(pts
 			(xy 132.08 82.55) (xy 144.78 82.55)
 		)
 		(stroke
@@ -1881,6 +1921,16 @@
 		(uuid "01874127-74f2-4026-b123-4201a6b42e6b")
 	)
 	(label "ISOL+"
+		(at 248.92 132.08 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0b6e2c10-5517-43e5-b1f6-cdf830aac070")
+	)
+	(label "ISOL+"
 		(at 213.36 132.08 180)
 		(effects
 			(font
@@ -1899,6 +1949,16 @@
 			(justify left bottom)
 		)
 		(uuid "625e2515-2ee5-4ab8-9e68-a0e80de88f48")
+	)
+	(label "ISOL-"
+		(at 266.7 132.08 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8568d059-313c-4f31-aa27-d0c2c2b1c590")
 	)
 	(label "HVGND"
 		(at 229.87 80.01 0)
@@ -1939,6 +1999,26 @@
 			(justify left bottom)
 		)
 		(uuid "c0726aa6-9a16-44ae-84a3-ea2d10e78bf5")
+	)
+	(label "ISOL-"
+		(at 231.14 148.59 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c145b100-4dd0-4bae-aa64-20f22c7d6b29")
+	)
+	(label "ISOL+"
+		(at 213.36 148.59 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f6feeee4-62b5-4516-bd23-e1651befcb1c")
 	)
 	(label "ISOL-"
 		(at 153.67 100.33 0)
@@ -2000,7 +2080,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TractionInverter:KEYSTONE_5281"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 226.06 135.89 0)
 			(effects
 				(font
@@ -2103,6 +2183,274 @@
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/77a80145-f9a0-49e1-8a83-585ad4300575"
 					(reference "C48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 213.36 152.4 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "11db02a1-8ab0-4e6e-ae73-bcfc0885ad53")
+		(property "Reference" "TP17"
+			(at 215.9 154.4319 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "ISOL+"
+			(at 215.9 156.9719 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 208.28 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 208.28 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 213.36 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c626bfa7-49b0-49f7-b373-4a62fa76a781")
+		)
+		(instances
+			(project "TractionInverter"
+				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/77a80145-f9a0-49e1-8a83-585ad4300575"
+					(reference "TP17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 248.92 135.89 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "20085ad8-fdef-4cd6-9331-2648a194b36d")
+		(property "Reference" "TP15"
+			(at 251.46 137.9219 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "ISOL+"
+			(at 251.46 140.4619 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 243.84 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 243.84 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 248.92 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f8102615-3085-4ca0-b640-12b01a36cdf3")
+		)
+		(instances
+			(project "TractionInverter"
+				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/77a80145-f9a0-49e1-8a83-585ad4300575"
+					(reference "TP15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 266.7 135.89 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "226348d7-4453-4811-a09a-12029e62d283")
+		(property "Reference" "TP16"
+			(at 269.24 137.9219 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "ISOL-"
+			(at 269.24 140.4619 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 261.62 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 261.62 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 266.7 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3d2cfb59-29bb-4b20-8556-7ca5147c718c")
+		)
+		(instances
+			(project "TractionInverter"
+				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/77a80145-f9a0-49e1-8a83-585ad4300575"
+					(reference "TP16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 231.14 152.4 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "27efae72-8fcb-48f2-894d-876524888fdb")
+		(property "Reference" "TP18"
+			(at 233.68 154.4319 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "ISOL-"
+			(at 233.68 156.9719 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 226.06 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 226.06 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 231.14 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6101d472-2a26-4e73-93fb-df01f6a93a5d")
+		)
+		(instances
+			(project "TractionInverter"
+				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/77a80145-f9a0-49e1-8a83-585ad4300575"
+					(reference "TP18")
 					(unit 1)
 				)
 			)
@@ -2349,7 +2697,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "TractionInverter:KEYSTONE_5281"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 208.28 135.89 0)
 			(effects
 				(font

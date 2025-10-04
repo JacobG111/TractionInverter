@@ -2007,7 +2007,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1157e7f3-5de0-4519-aa79-3738d1fe6187")
-		(property "Reference" "#PWR0262"
+		(property "Reference" "#PWR0247"
 			(at 152.4 140.97 0)
 			(effects
 				(font
@@ -2057,7 +2057,7 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/c3b3d684-59ca-4515-b70c-79904c358626"
-					(reference "#PWR0262")
+					(reference "#PWR0247")
 					(unit 1)
 				)
 			)
@@ -2205,7 +2205,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38174c01-5cf5-490e-a306-c78bde995564")
-		(property "Reference" "#PWR0264"
+		(property "Reference" "#PWR0246"
 			(at 158.75 110.49 0)
 			(effects
 				(font
@@ -2255,7 +2255,7 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/c3b3d684-59ca-4515-b70c-79904c358626"
-					(reference "#PWR0264")
+					(reference "#PWR0246")
 					(unit 1)
 				)
 			)
@@ -2393,7 +2393,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7417dfee-7f75-411b-9505-f990a32c9f08")
-		(property "Reference" "#PWR0263"
+		(property "Reference" "#PWR0245"
 			(at 152.4 110.49 0)
 			(effects
 				(font
@@ -2443,7 +2443,7 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/c3b3d684-59ca-4515-b70c-79904c358626"
-					(reference "#PWR0263")
+					(reference "#PWR0245")
 					(unit 1)
 				)
 			)

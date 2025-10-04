@@ -2311,7 +2311,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55b3e703-eb07-4b5e-ab36-7cea0b99c8a2")
-		(property "Reference" "TP15"
+		(property "Reference" "TP19"
 			(at 229.87 130.3019 0)
 			(effects
 				(font
@@ -2362,15 +2362,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "TP15")
+					(reference "TP19")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "TP46")
+					(reference "TP50")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "TP31")
+					(reference "TP35")
 					(unit 1)
 				)
 			)
@@ -3024,7 +3024,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b3bb032-ff32-455c-b6a0-db5ca6c6acdd")
-		(property "Reference" "TP16"
+		(property "Reference" "TP20"
 			(at 247.65 130.3019 0)
 			(effects
 				(font
@@ -3075,15 +3075,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "TP16")
+					(reference "TP20")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "TP47")
+					(reference "TP51")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/d240fb37-0ee4-4cc4-ab85-1f7fcf33acfc"
-					(reference "TP32")
+					(reference "TP36")
 					(unit 1)
 				)
 			)

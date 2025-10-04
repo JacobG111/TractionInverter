@@ -3479,7 +3479,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73b12b35-2fda-494c-b978-be7fc3ff4df3")
-		(property "Reference" "TP17"
+		(property "Reference" "TP21"
 			(at 146.05 98.5519 0)
 			(effects
 				(font
@@ -3530,15 +3530,15 @@
 		(instances
 			(project "TractionInverter"
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/3f7f1099-e875-4a86-860c-ef7a3936f734/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "TP17")
+					(reference "TP21")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/ebf1904e-ffdd-4ce1-98fa-2546468af80b/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "TP33")
+					(reference "TP37")
 					(unit 1)
 				)
 				(path "/bc91ffbf-afc6-42bb-9d28-6a3fecc21fcc/f1a23dc8-fe65-401e-b36f-fdc2d19203b3/8a53f8a7-4fee-45b0-8115-af4354d69d86/61f5303a-4fdd-407b-8b75-bd44ef1dd029"
-					(reference "TP18")
+					(reference "TP22")
 					(unit 1)
 				)
 			)
